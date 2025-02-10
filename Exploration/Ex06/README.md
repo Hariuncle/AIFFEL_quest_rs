@@ -12,7 +12,7 @@
 - [*]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 모델 정의 된 부분이고 에테션의 Concate가 구현 되어있습니다.
-        - ![model_define](./model_fine.png)  
+        - ![model_define](./model_define.png)  
     - 모델 구현에 대한 문서화가 되어 있습니다.
          - ![model_doc](./model_doc.png)         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
